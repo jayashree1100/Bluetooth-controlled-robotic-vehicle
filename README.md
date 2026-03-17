@@ -1,6 +1,5 @@
 # Bluetooth-controlled-robotic-vehicle
 
-
 ## Project Objective
 Developed a **Bluetooth controlled robotic vehicle** capable of real-time navigation using the 8051 microcontroller and motor driver ICs. The project highlights **practical embedded system design, wireless communication, and hardware-software integration**, demonstrating the ability to solve real-world automation challenges.
 
@@ -72,4 +71,3 @@ It demonstrates:
 * Ability to implement real-time control systems   
 
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjayashree1100%2FBluetooth-controlled-robotic-vehicle)
