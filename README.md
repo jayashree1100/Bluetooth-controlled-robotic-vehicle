@@ -1,4 +1,5 @@
-# Wireless-DC-Motor-using-8051-microcontroller
+# Bluetooth-controlled-robotic-vehicle
+
 
 ## Project Objective
 Developed a **Bluetooth controlled robotic vehicle** capable of real-time navigation using the 8051 microcontroller and motor driver ICs. The project highlights **practical embedded system design, wireless communication, and hardware-software integration**, demonstrating the ability to solve real-world automation challenges.
@@ -69,6 +70,3 @@ It demonstrates:
 * Proficiency in hardware-software integration  
 * Hands-on exposure to wireless communication protocols  
 * Ability to implement real-time control systems   
-
-## Project Nature
-This is a **Mini Project** completed as part of the **Circuits and Systems Simulation Laboratory** and evaluated for the semester practical assessment. It focuses on developing practical skills in embedded systems, microcontroller interfacing, and wireless robotics.
