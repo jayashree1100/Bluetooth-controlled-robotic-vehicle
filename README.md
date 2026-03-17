@@ -70,3 +70,6 @@ It demonstrates:
 * Proficiency in hardware-software integration  
 * Hands-on exposure to wireless communication protocols  
 * Ability to implement real-time control systems   
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=jayashree1100&color=blue)
