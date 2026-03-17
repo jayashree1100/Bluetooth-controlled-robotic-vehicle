@@ -72,4 +72,4 @@ It demonstrates:
 * Ability to implement real-time control systems   
 
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jayashree1100/Bluetooth-controlled-robotic-vehicle)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjayashree1100%2FBluetooth-controlled-robotic-vehicle)
