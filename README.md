@@ -72,4 +72,4 @@ It demonstrates:
 * Ability to implement real-time control systems   
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=jayashree1100&color=blue)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jayashree1100/Bluetooth-controlled-robotic-vehicle)
