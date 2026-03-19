@@ -46,6 +46,11 @@ It demonstrates:
 * End-to-end testing confirmed successful integration of software and hardware, validating the embedded C control logic with actual mechanical output  
 * Debugging involved signal-level verification at the microcontroller pins using a multimeter and oscilloscope to ensure accurate UART communication and motor driver activation  
 
+## Applications
+* Educational robotics and embedded system learning  
+* Remote-controlled vehicles and automation prototypes  
+* Foundation for industrial or IoT-based robotic systems  
+
 ## Future Enhancements
 * Integration with Wi-Fi or IoT for remote operation  
 * Speed control using PWM  
